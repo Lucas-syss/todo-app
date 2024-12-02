@@ -1,6 +1,6 @@
 # Todo List Web App
 
-A simple and interactive Todo List web app built with HTML, CSS, and JavaScript. The app allows users to manage their tasks efficiently with features such as adding, removing, searching, and marking tasks as completed.
+A simple and interactive Todo List Web App built with HTML, CSS, and JavaScript. The app allows users to manage their tasks efficiently with features such as adding, removing, searching, and marking tasks as completed.
 
 ## Features
 
@@ -24,5 +24,5 @@ A simple and interactive Todo List web app built with HTML, CSS, and JavaScript.
    git clone https://github.com/your-username/todo-list-web-app.git
 2. Navigate to the project directory: 
    ```bash
-   cd todo-list-web-app
+   cd todo-app
 3. Open index.html to run the app.
